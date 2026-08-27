@@ -1,4 +1,3 @@
-# step2
 # Foundry hosted agents with Agent Framework — Travel Assistant Workshop
 
 Built on the upstream [foundry-samples](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/python/hosted-agents/agent-framework/responses).
